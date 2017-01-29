@@ -9,7 +9,7 @@ public class AmstrongNumber {
 
 	}
 	
-	public boolean checkAmstrongnumber(int num){
+	public boolean checkAmstrongnumber(){
 		int temp=num;
 		int total=0;
         boolean z=true;		
