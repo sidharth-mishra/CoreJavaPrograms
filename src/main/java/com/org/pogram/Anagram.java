@@ -4,7 +4,7 @@ public class Anagram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//////////////////////////test at anagram///////////
 	boolean checkValue=	checkAnagram("army","sary");
 	System.out.println(checkValue);
 		
