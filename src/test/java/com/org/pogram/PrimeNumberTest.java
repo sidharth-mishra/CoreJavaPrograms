@@ -13,6 +13,8 @@ public class PrimeNumberTest {
 
 	}
 //////////////////////////////////////////Test Cases.....//////////////////
+	
+	//////////////////////
 	@Test
 	public void whenAnEvenNumberIsPassed_thenResultisNotPrime() {
 	boolean result=	pm.isPrimeNumber(4);
