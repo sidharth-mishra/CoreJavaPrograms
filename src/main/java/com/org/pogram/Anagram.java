@@ -7,6 +7,7 @@ public class Anagram {
 		//////////////////////////test at anagram///////////
 		
 		////hello//////
+		//////////////////at remote///////
 	boolean checkValue=	checkAnagram("army","sary");
 	System.out.println(checkValue);
 		
